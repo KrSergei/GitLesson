@@ -19,7 +19,6 @@ For add  a numbered list use (number) and space, example:
 2. Elrment2
 3. Element3
 
-
 ## Работа с изображениями
 
 For inser image use ![Error message](reference to image), for example
@@ -31,5 +30,29 @@ For make a reference using \[Text reference](\reference "A tooltip"), for exampl
 [Yandex](yandex.ru "Поисковая система")
 
 ## Работа с таблицами
+
+Use \(|) for separate column, and use (|-|) for separate row, for example:
+
+\| Column1 | Column2 | Column3 |
+
+\|---|---|---|
+\|Text row1|Text row2|Text row3|
+
+
+| Column1 | Column2 | Column3 |
+|----|---|---|
+|Text row1|Text row2|Text row3|
+
+For alignment in teble's cell use |:-|  left alignment |:-|, center alignment |:-:|, right alignment |-:|, for example:
+
+\| Column1 | Column2 | Column3 |
+
+\|:---|:---:|---:|
+
+\|Text row1|Text row2|Text row3|
+
+| Left alignment | Center alignment | Right alignment |
+|:---|:---:|---:|
+|Text row1|Text row2 |Text row3 |
 
 ## Заключение
