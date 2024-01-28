@@ -2,9 +2,9 @@
 
 ## Выделение текста
 
-For make text cursive use (*).  Example (*text*)
+For make text cursive use (*) or (_).  Example (*text* _text_)
 
-For bolding text use double (**). Example (**text**)
+For bolding text use double (**) or (__). Example (**text** __text__)
 
 ## Списки
 
