@@ -27,6 +27,9 @@ For inser image use ![Error message](reference to image), for example
 
 ## Ссылки
 
+For make a reference using \[Text reference](\reference "A tooltip"), for example
+[Yandex](yandex.ru "Поисковая система")
+
 ## Работа с таблицами
 
 ## Заключение
