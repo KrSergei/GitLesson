@@ -29,6 +29,4 @@ For inser image use ![Error message](reference to image), for example
 
 ## Работа с таблицами
 
-## Ссылки
-
 ## Заключение
