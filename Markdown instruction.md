@@ -56,3 +56,8 @@ For alignment in teble's cell use |:-|  left alignment |:-|, center alignment |:
 |Text row1|Text row2 |Text row3 |
 
 ## Заключение
+
+*
+*
+*
+*
